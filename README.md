@@ -81,8 +81,8 @@ I'm part of the **Tanamore** team/organization, and now that I've graduated, I'm
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Project-DataAnalytics**](https://github.com/NavyNurlyn/Project-DataAnalytics) | Data exploration & analysis project | Python |
-| [**ProjectDataAnalysis**](https://github.com/NavyNurlyn/ProjectDataAnalysis) | Notebook-based data analysis project | Jupyter Notebook |
+| [**Data Warehouse & OLAP Adventure Work**](https://github.com/NavyNurlyn/DataWarehouseOLAP-AdventureWorks-Dashboard) | Data exploration & analysis project | Pentaho, Mondrian OLAP |
+| [**Customer Segmentation & Classification**](https://github.com/NavyNurlyn/Customer-Segmentation-Clustering-Classification) | Notebook-based data analysis project | Jupyter Notebook |
 | [**Web-SmartHealth**](https://github.com/NavyNurlyn/Web-SmartHealth) | Health-related web application | PHP |
 | [**AlienShooter**](https://github.com/NavyNurlyn/AlienShooter) | A simple browser-based shooter game | JavaScript |
 
@@ -91,13 +91,13 @@ I'm part of the **Tanamore** team/organization, and now that I've graduated, I'm
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="navyajrina@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-here">
+  <a href="https://linkedin.com/in/NavyNurlyn">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram-here">
+  <a href="https://instagram.com/navyajrina">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
