@@ -2,18 +2,18 @@
 
 <!-- Typing animation intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2980B9&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Computer+Science+Student+%40+UPN+%22Veteran%22+Jawa+Timur;Data+Analyst+%26+Data+Science+Enthusiast+%F0%9F%93%8A;NLP+%7C+Computer+Vision+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2980B9&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Information+Systems+Graduate+%40+UPN+%22Veteran%22+Jawa+Timur;Data+Analyst+%26+Data+Science+Enthusiast+%F0%9F%93%8A;NLP+%7C+Computer+Vision+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30" alt="waving hand"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat coding gif"/>
 </p>
 
 ---
 
 ### 👋 About Me
 
-Hi there! I'm **Navy Nurlyn Ajrina**, a Computer Science student at **UPN "Veteran" Jawa Timur**, based in Surabaya, Indonesia 🇮🇩
+Hi there! I'm **Navy Nurlyn Ajrina**, a recent **Information Systems (S.Kom)** graduate from **UPN "Veteran" Jawa Timur**, based in Surabaya, Indonesia 🇮🇩
 
 I'm passionate about **Data Analysis** and **Data Science**, and I love turning raw data into meaningful insights. Some of the areas I usually work on:
 
@@ -25,7 +25,7 @@ I'm passionate about **Data Analysis** and **Data Science**, and I love turning 
 - 🔍 **Aspect-Based Sentiment Analysis (ABSA)** — extracting sentiment toward specific aspects/topics within text
 - 🌐 **Web Development** — building web apps and interfaces (mostly PHP & JavaScript)
 
-I'm part of the **Tanamore** team/organization, and I'm always excited to learn new tools, dive into new datasets, and collaborate on interesting projects.
+I'm part of the **Tanamore** team/organization, and now that I've graduated, I'm looking forward to growing further in the data field while taking on new projects and collaborations.
 
 ---
 
@@ -67,16 +67,12 @@ I'm part of the **Tanamore** team/organization, and I'm always excited to learn 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NavyNurlyn&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyNurlyn&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavyNurlyn&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavyNurlyn&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NavyNurlyn&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NavyNurlyn&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
