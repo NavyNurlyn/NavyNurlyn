@@ -1,7 +1,4 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hi,%20I'm%20Navy%20Nurlyn%20Ajrina&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">Hi, I'm Navy Nurlyn Ajrina 👋</h1>
 
 <!-- Typing animation intro -->
 <p align="center">
@@ -9,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="wave gif"/>
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30" alt="waving hand"/>
 </p>
 
 ---
@@ -75,7 +72,7 @@ I'm part of the **Tanamore** team/organization, and I'm always excited to learn 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavyNurlyn&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=NavyNurlyn&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -98,21 +95,15 @@ I'm part of the **Tanamore** team/organization, and I'm always excited to learn 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:navyajrina@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/navynurlyn">
+  <a href="https://linkedin.com/in/your-linkedin-here">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/navyajrina">
+  <a href="https://instagram.com/your-instagram-here">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=100&section=footer" />
 </p>
 
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
