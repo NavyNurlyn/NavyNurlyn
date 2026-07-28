@@ -5,10 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2980B9&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Information+Systems+Graduate+%40+UPN+%22Veteran%22+Jawa+Timur;Data+Analyst+%26+Data+Science+Enthusiast+%F0%9F%93%8A;NLP+%7C+Computer+Vision+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+<!--  
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat coding gif"/>
 </p>
-
+-->
 ---
 
 ### 👋 About Me
